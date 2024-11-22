@@ -41,4 +41,4 @@ This repository contains a simple Flask web application that provides several ro
 1. **Clone the repository**:
    ```bash
    cd <your-repository-folder>
-   git clone [<repository-url>](https://github.com/PrashantMali07/first-flask-app.git)
+   git clone https://github.com/PrashantMali07/first-flask-app.git
